@@ -5,6 +5,8 @@
 awesome-machine-learning
 
 ## tutorial
+- https://github.com/machinelearningmindset/TensorFlow-Course
+imple and ready-to-use tutorials for TensorFlow 
 - https://github.com/yunjey/pytorch-tutorial
 PyTorch Tutorial for Deep Learning Researchers
 - https://github.com/chenyuntc/pytorch-book
